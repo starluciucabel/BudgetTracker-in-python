@@ -1,0 +1,8 @@
+# BudgetTracker - Dipendenze Python
+# Installare con: pip install -r requirements.txt
+
+# Libreria per grafici
+matplotlib>=3.7.0
+
+# Nota: tkinter è incluso nella distribuzione standard di Python
+# Nota: sqlite3 è incluso nella distribuzione standard di Python
